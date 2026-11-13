@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**FPPRyan/FPPRyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Ryan Dimmick / FPPRyan
+**Student Developer - Oklahoma State University Fire Protection Publications**
+---
+This demo portfolio was created as a Git and GitHub training exercise.
+I am currently learning documentation, version control, and automated testing
+for work that supports OSU Fire Protection Publications.
+---
+## Current Learning
+- Git and GitHub
+- Markdown documentation
+- Playwright test development
+- Professional development workflows
+---
+&gt; All work product in this account is property of
+&gt; Oklahoma State University - Fire Protection Publications (OSU FPP).
